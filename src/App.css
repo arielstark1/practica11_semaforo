@@ -39,3 +39,12 @@
 .go:hover{
   color:lightcoral
 }
+.red-light{
+  background-color: rgb(238, 113, 113);
+}
+.yellow-light{
+  background-color: rgb(235, 235, 146);
+}
+.green-light {
+  background-color:rgb(160, 196, 160);
+}

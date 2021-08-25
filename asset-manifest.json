@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/arielstark1/practica11_semaforo.git/static/css/main.b3c90e39.chunk.css",
-    "main.js": "/arielstark1/practica11_semaforo.git/static/js/main.42f1d51d.chunk.js",
-    "main.js.map": "/arielstark1/practica11_semaforo.git/static/js/main.42f1d51d.chunk.js.map",
-    "runtime-main.js": "/arielstark1/practica11_semaforo.git/static/js/runtime-main.36fbdea1.js",
-    "runtime-main.js.map": "/arielstark1/practica11_semaforo.git/static/js/runtime-main.36fbdea1.js.map",
-    "static/js/2.d6691c7f.chunk.js": "/arielstark1/practica11_semaforo.git/static/js/2.d6691c7f.chunk.js",
-    "static/js/2.d6691c7f.chunk.js.map": "/arielstark1/practica11_semaforo.git/static/js/2.d6691c7f.chunk.js.map",
-    "static/js/3.3c6e38df.chunk.js": "/arielstark1/practica11_semaforo.git/static/js/3.3c6e38df.chunk.js",
-    "static/js/3.3c6e38df.chunk.js.map": "/arielstark1/practica11_semaforo.git/static/js/3.3c6e38df.chunk.js.map",
-    "index.html": "/arielstark1/practica11_semaforo.git/index.html",
-    "static/css/main.b3c90e39.chunk.css.map": "/arielstark1/practica11_semaforo.git/static/css/main.b3c90e39.chunk.css.map",
-    "static/js/2.d6691c7f.chunk.js.LICENSE.txt": "/arielstark1/practica11_semaforo.git/static/js/2.d6691c7f.chunk.js.LICENSE.txt"
+    "main.css": "/arielstark1/practica11-semaforo.git/static/css/main.b3c90e39.chunk.css",
+    "main.js": "/arielstark1/practica11-semaforo.git/static/js/main.42f1d51d.chunk.js",
+    "main.js.map": "/arielstark1/practica11-semaforo.git/static/js/main.42f1d51d.chunk.js.map",
+    "runtime-main.js": "/arielstark1/practica11-semaforo.git/static/js/runtime-main.d903e93a.js",
+    "runtime-main.js.map": "/arielstark1/practica11-semaforo.git/static/js/runtime-main.d903e93a.js.map",
+    "static/js/2.d6691c7f.chunk.js": "/arielstark1/practica11-semaforo.git/static/js/2.d6691c7f.chunk.js",
+    "static/js/2.d6691c7f.chunk.js.map": "/arielstark1/practica11-semaforo.git/static/js/2.d6691c7f.chunk.js.map",
+    "static/js/3.3c6e38df.chunk.js": "/arielstark1/practica11-semaforo.git/static/js/3.3c6e38df.chunk.js",
+    "static/js/3.3c6e38df.chunk.js.map": "/arielstark1/practica11-semaforo.git/static/js/3.3c6e38df.chunk.js.map",
+    "index.html": "/arielstark1/practica11-semaforo.git/index.html",
+    "static/css/main.b3c90e39.chunk.css.map": "/arielstark1/practica11-semaforo.git/static/css/main.b3c90e39.chunk.css.map",
+    "static/js/2.d6691c7f.chunk.js.LICENSE.txt": "/arielstark1/practica11-semaforo.git/static/js/2.d6691c7f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.36fbdea1.js",
+    "static/js/runtime-main.d903e93a.js",
     "static/js/2.d6691c7f.chunk.js",
     "static/css/main.b3c90e39.chunk.css",
     "static/js/main.42f1d51d.chunk.js"
